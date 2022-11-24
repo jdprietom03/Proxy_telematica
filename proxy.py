@@ -4,8 +4,11 @@ import config
 from log import *
 from tqdm import tqdm
 from datetime import datetime
+import os
+
 file_name = f'proxy_{datetime.now().strftime("%Y-%m-%d_%H-%M")}.log'
 printLock = threading.Lock()
+temporal_cache = {}
 
 class RoundRobin:
     def __init__(self):
@@ -59,8 +62,19 @@ class ProxyClient(threading.Thread):
         file = "index.html" if file == "/" else file.split("/")[-1]
         return file
 
+    def get_time_left(self, url):
+        return str(config.TTL - (datetime.now() - temporal_cache[url]).total_seconds())
+
     def find_cache(self, url, request):
         log("Caching URL: " + url, file_name)
+
+        if url in temporal_cache:
+            if (datetime.now() - temporal_cache[url]).total_seconds() > config.TTL:
+                del temporal_cache[url]
+                log("Cache expired for " + url, file_name)
+                os.remove(f"{url}")
+
+
         
         try:
             with open(url, 'rb') as cached_file:
@@ -72,14 +86,14 @@ class ProxyClient(threading.Thread):
                     buf = cached_file.read(config.BUFFER_SIZE_ACK)
 
             cached_file.close()
-            log('Cached Response from Server...' , file_name)
+            log('Cached Response from Server... Time to Live: ' + self.get_time_left(url) , file_name)
             #self.conn.sendall(response_message.encode())
         
         except FileNotFoundError:
             self.proxy.sendall(request)
             # Receive Response from Server
             response = self.proxy.recv(config.BUFFER_SIZE_ACK)
-            
+            temporal_cache[url] = datetime.now()
             with open(url, "wb") as f:
                 while response:
                     #print(response)
