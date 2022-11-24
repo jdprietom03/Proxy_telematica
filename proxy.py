@@ -101,8 +101,9 @@ def start_proxy_server():
     try:
         while True:
             # Accept Connection
+            log("Waiting for Connection...", file_name)
             conn, addr = s.accept()
-            #log('Accepted Connection from: ' + addr, file_name)
+            log('Accepted Connection from: ' + addr, file_name)
             # Create a TCP Socket
             proxy = socket(AF_INET, SOCK_STREAM)
             
