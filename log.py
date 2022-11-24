@@ -1,5 +1,5 @@
 def log(t, file): 
-    #print(t)
+    print(t)
     f = open(f'logs/{file}', 'a')
     f.write(t +  '\n')
     f.close()
