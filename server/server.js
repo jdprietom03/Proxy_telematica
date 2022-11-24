@@ -23,18 +23,30 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/index.html');
 });
 
+app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
-server.listen(port, function () {
-    console.log('Server listening at port %d', port);
-    // server.maxConnections = 1;
-});
-
-server.on('connection', function (socket) {
-    console.log('A new connection was made by a client.');
-    socket.on('close', function () {
-        console.log('A connection was closed by a client.');
+app.on('connection', (socket) => {
+    console.log('a user connected');
+    socket.on('disconnect', () => {
+        console.log('user disconnected');
     });
 });
+
+app.on('error', (err) => {
+    console.log('Error: ', err);
+});
+
+// server.listen(port, function () {
+//     console.log('Server listening at port %d', port);
+//     // server.maxConnections = 1;
+// });
+
+// server.on('connection', function (socket) {
+//     console.log('A new connection was made by a client.');
+//     socket.on('close', function () {
+//         console.log('A connection was closed by a client.');
+//     });
+// });
 
 
 

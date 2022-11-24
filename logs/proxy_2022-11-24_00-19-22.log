@@ -1612,3 +1612,5 @@ If-Modified-Since: Tue, 01 Nov 2022 04:53:26 GMT
 
 Caching URL: cache/localhost__image-avatar.png
 Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 53791)
