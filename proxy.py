@@ -4,7 +4,7 @@ import config
 from log import *
 from tqdm import tqdm
 from datetime import datetime
-file_name = f'proxy_{datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}.log'
+file_name = f'proxy_{datetime.now().strftime("%Y-%m-%d_%H-%M")}.log'
 printLock = threading.Lock()
 
 class RoundRobin:
@@ -15,7 +15,9 @@ class RoundRobin:
         return self.id
 
 class ProxyClient(threading.Thread):
-    def __init__(self, conn, addr, proxy):
+    def __init__(self, conn, addr, proxy, HOST, PORT):
+        self.HOST = HOST
+        self.PORT = PORT
         threading.Thread.__init__(self)
         self.conn = conn
         self.addr = addr
@@ -42,7 +44,8 @@ class ProxyClient(threading.Thread):
         printLock.release()
 
     def decorated_url(self, request):
-        return "cache/" + self.get_url(request) + "__" + self.get_file(request)
+        #return "cache/" + self.get_url(request) + "__" + self.get_file(request)
+        return "cache/" + self.HOST + "__" + self.get_file(request)
 
     def get_url(self, request):
         url = request.split(b' ')[3].decode()
@@ -103,7 +106,7 @@ def start_proxy_server():
             # Accept Connection
             log("Waiting for Connection...", file_name)
             conn, addr = s.accept()
-            log('Accepted Connection from: ' + addr, file_name)
+            log('Accepted Connection from: ' + str(addr), file_name)
             # Create a TCP Socket
             proxy = socket(AF_INET, SOCK_STREAM)
             
@@ -112,7 +115,7 @@ def start_proxy_server():
             proxy.connect((config.SERVERS[ID][1], config.SERVERS[ID][2]))
             log(host_message(config.SERVERS[ID][1], config.SERVERS[ID][2]), file_name)
             # Create a Proxy Client Thread
-            ProxyClient(conn, addr, proxy)
+            ProxyClient(conn, addr, proxy, config.SERVERS[ID][1], config.SERVERS[ID][2])
     except KeyboardInterrupt:
         s.close()
 
