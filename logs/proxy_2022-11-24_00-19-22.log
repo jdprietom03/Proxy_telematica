@@ -1,0 +1,1614 @@
+Connected Succesfully to Host: localhost on Port: 3637
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52147)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__index.html
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52150)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52154)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__index.css
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52156)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52159)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52161)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52163)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__image-avatar.png
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52166)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52172)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52175)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52177)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52180)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52182)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52184)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52186)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"bc7-1843185d3d5"
+If-Modified-Since: Tue, 01 Nov 2022 04:49:24 GMT
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52190)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"34e6-18431899aa1"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:32 GMT
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52192)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"b9-184318940e8"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:09 GMT
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52199)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"107-1843188dd4d"
+If-Modified-Since: Tue, 01 Nov 2022 04:52:43 GMT
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52201)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"227e-18431898206"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:26 GMT
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52205)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52207)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"bc7-1843185d3d5"
+If-Modified-Since: Tue, 01 Nov 2022 04:49:24 GMT
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52211)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"34e6-18431899aa1"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:32 GMT
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52214)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"107-1843188dd4d"
+If-Modified-Since: Tue, 01 Nov 2022 04:52:43 GMT
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52217)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"b9-184318940e8"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:09 GMT
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52218)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"227e-18431898206"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:26 GMT
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52223)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52225)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"bc7-1843185d3d5"
+If-Modified-Since: Tue, 01 Nov 2022 04:49:24 GMT
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52229)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"34e6-18431899aa1"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:32 GMT
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52232)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"b9-184318940e8"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:09 GMT
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52234)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"107-1843188dd4d"
+If-Modified-Since: Tue, 01 Nov 2022 04:52:43 GMT
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52237)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"227e-18431898206"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:26 GMT
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52241)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52243)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"bc7-1843185d3d5"
+If-Modified-Since: Tue, 01 Nov 2022 04:49:24 GMT
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52247)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"34e6-18431899aa1"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:32 GMT
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52250)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"b9-184318940e8"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:09 GMT
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52253)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"107-1843188dd4d"
+If-Modified-Since: Tue, 01 Nov 2022 04:52:43 GMT
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52254)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"227e-18431898206"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:26 GMT
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52260)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52261)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52265)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52268)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52271)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"bc7-1843185d3d5"
+If-Modified-Since: Tue, 01 Nov 2022 04:49:24 GMT
+
+
+Caching URL: cache/localhost__index.css
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52274)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"34e6-18431899aa1"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:32 GMT
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52276)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"b9-184318940e8"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:09 GMT
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52278)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"107-1843188dd4d"
+If-Modified-Since: Tue, 01 Nov 2022 04:52:43 GMT
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52280)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"227e-18431898206"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:26 GMT
+
+
+Caching URL: cache/localhost__image-avatar.png
+Received Response from Server... 
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52283)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"bc7-1843185d3d5"
+If-Modified-Since: Tue, 01 Nov 2022 04:49:24 GMT
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52286)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"34e6-18431899aa1"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:32 GMT
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52289)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"b9-184318940e8"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:09 GMT
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52291)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52294)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52296)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52299)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52302)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52305)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52309)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"107-1843188dd4d"
+If-Modified-Since: Tue, 01 Nov 2022 04:52:43 GMT
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52317)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52318)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"bc7-1843185d3d5"
+If-Modified-Since: Tue, 01 Nov 2022 04:49:24 GMT
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52322)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"34e6-18431899aa1"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:32 GMT
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52326)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"227e-18431898206"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:26 GMT
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52327)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"b9-184318940e8"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:09 GMT
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52329)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+If-None-Match: W/"107-1843188dd4d"
+If-Modified-Since: Tue, 01 Nov 2022 04:52:43 GMT
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52335)
+Received a message from client: 
+GET / HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"7a1-184318d891c"
+If-Modified-Since: Tue, 01 Nov 2022 04:57:50 GMT
+
+
+Caching URL: cache/localhost__index.html
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52336)
+Received a message from client: 
+GET /static/css/index.css HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"bc7-1843185d3d5"
+If-Modified-Since: Tue, 01 Nov 2022 04:49:24 GMT
+
+
+Caching URL: cache/localhost__index.css
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52340)
+Received a message from client: 
+GET /images/image-equilibrium.jpeg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"34e6-18431899aa1"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:32 GMT
+
+
+Caching URL: cache/localhost__image-equilibrium.jpeg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52343)
+Received a message from client: 
+GET /images/icon-ethereum.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"b9-184318940e8"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:09 GMT
+
+
+Caching URL: cache/localhost__icon-ethereum.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52345)
+Received a message from client: 
+GET /images/icon-clock.svg HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"107-1843188dd4d"
+If-Modified-Since: Tue, 01 Nov 2022 04:52:43 GMT
+
+
+Caching URL: cache/localhost__icon-clock.svg
+Cached Response from Server...
+Connected Succesfully to Host: localhost on Port: 8080
+Proxy client started on: ('127.0.0.1', 52347)
+Received a message from client: 
+GET /images/image-avatar.png HTTP/1.1
+Host: localhost:3637
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "macOS"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:3637/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,es-US;q=0.8,es;q=0.7
+x-auth-token: 582ef28add7879e18a0fb456a89fe8ad255ecb05257a9b33a12cebc21e4cc184
+If-None-Match: W/"227e-18431898206"
+If-Modified-Since: Tue, 01 Nov 2022 04:53:26 GMT
+
+
+Caching URL: cache/localhost__image-avatar.png
+Cached Response from Server...

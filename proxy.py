@@ -12,7 +12,7 @@ class RoundRobin:
         self.id = 0
     def next(self):
         self.id = (self.id + 1) % len(config.SERVERS)
-        return self.idq
+        return self.id
 
 class ProxyClient(threading.Thread):
     def __init__(self, conn, addr, proxy):
